@@ -1,4 +1,4 @@
-echo "HELLO"
+echo "HELLO!"
 echo "WORK DIRECTORY $(pwd)"
 
 exit 1
